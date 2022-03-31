@@ -1,0 +1,4 @@
+image_crop_program/yolo/**
+image_crop_program/results/**/**
+image_crop_program/targets/**
+yolo.zip
